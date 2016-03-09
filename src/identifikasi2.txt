@@ -1,0 +1,4 @@
+identifikasi
+class : lombalaro, hasillomba
+method : getnama, getputaran
+atribut : putaran, waktu, jarak, keliling, nama, nim;
